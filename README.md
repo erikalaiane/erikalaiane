@@ -80,6 +80,7 @@ const erika = {
 <div align="center">
 
 [![Dashboard Corporativo](https://github-readme-stats.vercel.app/api/pin/?username=erikalaiane&repo=dashboard-corporativo&theme=radical&border_color=8B5CF6&title_color=8B5CF6&icon_color=A78BFA)](https://github.com/erikalaiane/dashboard-corporativo)
+[![Beyond Rio](https://github-readme-stats.vercel.app/api/pin/?username=erikalaiane&repo=beyond-rio&theme=radical&border_color=8B5CF6&title_color=8B5CF6&icon_color=A78BFA)](https://github.com/erikalaiane/beyond-rio)
 
 </div>
 
@@ -87,6 +88,11 @@ const erika = {
 Dashboard moderno e responsivo desenvolvido com React, Tailwind CSS e Recharts. Inclui gráficos interativos, dark mode e design glassmorphism.
 
 **[🚀 Ver Demo ao Vivo](https://erikalaiane.github.io/dashboard-corporativo/)**
+
+### 🌴 [Beyond Rio](https://github.com/erikalaiane/beyond-rio)
+Site de agência de turismo fictícia do Rio de Janeiro com simulação de viagem, destinos turísticos, blog e design totalmente responsivo. Desenvolvido com React, Vite e Tailwind CSS.
+
+**[🚀 Ver Demo ao Vivo](https://erikalaiane.github.io/beyond-rio/)**
 
 ## 📫 Contato
 
@@ -98,7 +104,7 @@ Dashboard moderno e responsivo desenvolvido com React, Tailwind CSS e Recharts. 
 
 </div>
 
-## 💡 Frase que me motiva
+## 💡 Frase que me inspira
 
 <div align="center">
   
