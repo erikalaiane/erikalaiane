@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Erika%20Laiane&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Enthusiast&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,12,14,18&height=200&section=header&text=Erika%20Laiane&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Enthusiast&descAlignY=58&descAlign=50" />
 </div>
 
 <div align="center">
@@ -117,7 +117,7 @@ Site de agência de turismo fictícia do Rio de Janeiro com simulação de viage
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,12,14,18&height=100&section=footer" />
   
   ![Profile Views](https://komarev.com/ghpvc/?username=erikalaiane&color=blueviolet&style=for-the-badge)
   
