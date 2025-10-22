@@ -10,7 +10,7 @@
 
 ## 💜 Sobre mim
 
-Olá! Sou estudante de programação focada em **Desenvolvimento Full Stack** e **Análise de Dados**. Apaixonada por criar interfaces modernas e funcionais, estou constantemente aprendendo e desenvolvendo projetos que combinam design elegante com código limpo.
+Olá! Sou estudante de programação focada em **Desenvolvimento Full Stack** e **Análise de Dados**, com um olhar especial para o **Front-End**. Com uma forte veia artística, adoro transformar ideias em interfaces visuais atraentes e funcionais. Acredito que código e design andam lado a lado, e busco sempre criar experiências que sejam tanto bonitas quanto intuitivas.
 
 ```javascript
 const erika = {
@@ -28,7 +28,9 @@ const erika = {
     tools: ["Git", "GitHub", "VS Code", "Figma"]
   },
   currentlyLearning: ["Full Stack Development", "Data Analysis", "Data Visualization"],
-  funFact: "Adoro transformar designs em código funcional!"
+  focus: "Front-End Development com forte senso estético",
+  passion: "Unir criatividade artística com código limpo",
+  funFact: "Transformo pixels em experiências memoráveis!"
 };
 ```
 
@@ -96,12 +98,12 @@ Dashboard moderno e responsivo desenvolvido com React, Tailwind CSS e Recharts. 
 
 </div>
 
-## 💡 Frase que me inspira
+## 💡 Frase que me motiva
 
 <div align="center">
   
   ```
-  "O código é poesia escrita em lógica."
+  "Programar é arte disfarçada de ciência."
   ```
   
 </div>
