@@ -68,10 +68,6 @@ const erika = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erikalaiane&theme=radical&border=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erikalaiane&theme=react-dark&hide_border=true&area=true&color=8B5CF6&point=A78BFA&line=8B5CF6" />
 </div>
 
