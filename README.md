@@ -10,7 +10,7 @@
 
 ## 💜 Sobre mim
 
-Olá! Sou estudante de programação focada em **Desenvolvimento Full Stack** e **Análise de Dados**, com um olhar especial para o **Front-End**. Com uma forte veia artística, adoro transformar ideias em interfaces visuais atraentes e funcionais. Acredito que código e design andam lado a lado, e busco sempre criar experiências que sejam tanto bonitas quanto intuitivas.
+Olá! Sou estudante de programação focada em **Desenvolvimento Front-End**. Com uma forte veia artística, adoro transformar ideias em interfaces visuais atraentes e funcionais. Acredito que código e design andam lado a lado, e busco sempre criar experiências que sejam tanto bonitas quanto intuitivas.
 
 ```javascript
 const erika = {
