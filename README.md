@@ -77,7 +77,7 @@ const erika = {
 
 Portfólio fictício de uma produtora musical experimental com design vintage, glassmorphism, carrosséis animados e loading screen.
 
-[![Kira Nox Preview](https://raw.githubusercontent.com/erikalaiane/kira-nox/main/public/kira-nox.png)](https://github.com/erikalaiane/kira-nox)
+[![Kira Nox Preview](./assets/kira-nox.png)](https://github.com/erikalaiane/kira-nox)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -89,7 +89,7 @@ Portfólio fictício de uma produtora musical experimental com design vintage, g
 
 Hub de automobilismo fictício do Rio de Janeiro com simuladores, marketplace, calendário de eventos e sistema de assinatura. Design inspirado em equipes de F1.
 
-[![Acelera Club Preview](https://raw.githubusercontent.com/erikalaiane/acelera-club/main/public/images/site-preview.png)](https://github.com/erikalaiane/acelera-club)
+[![Acelera Club Preview](./assets/acelera-club.png)](https://github.com/erikalaiane/acelera-club)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
