@@ -73,22 +73,29 @@ const erika = {
 
 ## 🎯 Projetos em Destaque
 
-<div align="center">
+### 🎵 [Kira Nox — Sound Producer Portfolio](https://github.com/erikalaiane/kira-nox)
 
-[![Dashboard Corporativo](https://github-readme-stats.vercel.app/api/pin/?username=erikalaiane&repo=dashboard-corporativo&theme=radical&border_color=8B5CF6&title_color=8B5CF6&icon_color=A78BFA)](https://github.com/erikalaiane/dashboard-corporativo)
-[![Beyond Rio](https://github-readme-stats.vercel.app/api/pin/?username=erikalaiane&repo=beyond-rio&theme=radical&border_color=8B5CF6&title_color=8B5CF6&icon_color=A78BFA)](https://github.com/erikalaiane/beyond-rio)
+Portfólio fictício de uma produtora musical experimental com design vintage, glassmorphism, carrosséis animados e loading screen.
 
-</div>
+[![Kira Nox Preview](https://raw.githubusercontent.com/erikalaiane/kira-nox/main/public/kira-nox.png)](https://github.com/erikalaiane/kira-nox)
 
-### 📊 [Dashboard Corporativo](https://github.com/erikalaiane/dashboard-corporativo)
-Dashboard moderno e responsivo desenvolvido com React, Tailwind CSS e Recharts. Inclui gráficos interativos, dark mode e design glassmorphism.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**[🚀 Ver Demo ao Vivo](https://erikalaiane.github.io/dashboard-corporativo/)**
+---
 
-### 🌴 [Beyond Rio](https://github.com/erikalaiane/beyond-rio)
-Site de agência de turismo fictícia do Rio de Janeiro com simulação de viagem, destinos turísticos, blog e design totalmente responsivo. Desenvolvido com React, Vite e Tailwind CSS.
+### 🏎️ [Acelera Club — Hub de Automobilismo](https://github.com/erikalaiane/acelera-club)
 
-**[🚀 Ver Demo ao Vivo](https://erikalaiane.github.io/beyond-rio/)**
+Hub de automobilismo fictício do Rio de Janeiro com simuladores, marketplace, calendário de eventos e sistema de assinatura. Design inspirado em equipes de F1.
+
+[![Acelera Club Preview](https://raw.githubusercontent.com/erikalaiane/acelera-club/main/public/images/site-preview.png)](https://github.com/erikalaiane/acelera-club)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**[🚀 Ver Demo ao Vivo](https://erikalaiane.github.io/acelera-club/)**
 
 ## 📫 Contato
 
