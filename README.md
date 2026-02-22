@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Erika%20Laiane&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Enthusiast&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Erika%20Laiane&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Design%20%26%20Criatividade&descAlignY=58&descAlign=50" />
 </div>
+
 <div align="center">
 
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+Full+Stack;Explorando+An%C3%A1lise+de+Dados;Criando+interfaces+modernas+com+React;Apaixonada+por+tecnologia!)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+Full+Stack;Criando+interfaces+modernas+com+React;Design+%2B+C%C3%B3digo+%3D+Experi%C3%AAncias+%C3%BAnicas;Apaixonada+por+tecnologia+e+est%C3%A9tica!)](https://git.io/typing-svg)
+
 </div>
+
+---
 
 ## 💜 Sobre mim
 
@@ -27,12 +29,14 @@ const erika = {
     databases: ["MySQL", "MongoDB"],
     tools: ["Git", "GitHub", "VS Code", "Figma"]
   },
-  currentlyLearning: ["Full Stack Development", "Data Analysis", "Data Visualization"],
+  currentlyLearning: ["Full Stack Development", "UI/UX Design", "Animações CSS"],
   focus: "Front-End Development com forte senso estético",
   passion: "Unir criatividade artística com código limpo",
   funFact: "Transformo pixels em experiências memoráveis!"
 };
 ```
+
+---
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -60,6 +64,8 @@ const erika = {
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -71,24 +77,35 @@ const erika = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erikalaiane&theme=react-dark&hide_border=true&area=true&color=8B5CF6&point=A78BFA&line=8B5CF6" />
 </div>
 
+---
+
 ## 🎯 Projetos em Destaque
 
-<div align="center">
+### 🎵 [Kira Nox — Sound Producer Portfolio](https://github.com/erikalaiane/kira-nox)
 
-[![Dashboard Corporativo](https://github-readme-stats.vercel.app/api/pin/?username=erikalaiane&repo=dashboard-corporativo&theme=radical&border_color=8B5CF6&title_color=8B5CF6&icon_color=A78BFA)](https://github.com/erikalaiane/dashboard-corporativo)
-[![Beyond Rio](https://github-readme-stats.vercel.app/api/pin/?username=erikalaiane&repo=beyond-rio&theme=radical&border_color=8B5CF6&title_color=8B5CF6&icon_color=A78BFA)](https://github.com/erikalaiane/beyond-rio)
+Portfólio fictício de uma produtora musical experimental com design vintage, glassmorphism, carrosséis animados e loading screen.
 
-</div>
+[![Kira Nox Preview](./assets/kira-nox.png)](https://github.com/erikalaiane/kira-nox)
 
-### 📊 [Dashboard Corporativo](https://github.com/erikalaiane/dashboard-corporativo)
-Dashboard moderno e responsivo desenvolvido com React, Tailwind CSS e Recharts. Inclui gráficos interativos, dark mode e design glassmorphism.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**[🚀 Ver Demo ao Vivo](https://erikalaiane.github.io/dashboard-corporativo/)**
+---
 
-### 🌴 [Beyond Rio](https://github.com/erikalaiane/beyond-rio)
-Site de agência de turismo fictícia do Rio de Janeiro com simulação de viagem, destinos turísticos, blog e design totalmente responsivo. Desenvolvido com React, Vite e Tailwind CSS.
+### 🏎️ [Acelera Club — Hub de Automobilismo](https://github.com/erikalaiane/acelera-club)
 
-**[🚀 Ver Demo ao Vivo](https://erikalaiane.github.io/beyond-rio/)**
+Hub de automobilismo fictício do Rio de Janeiro com simuladores, marketplace, calendário de eventos e sistema de assinatura. Design inspirado em equipes de F1.
+
+[![Acelera Club Preview](https://raw.githubusercontent.com/erikalaiane/acelera-club/main/public/images/site-preview.png)](https://github.com/erikalaiane/acelera-club)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**[🚀 Ver Demo ao Vivo](https://erikalaiane.github.io/acelera-club/)**
+
+---
 
 ## 📫 Contato
 
@@ -100,22 +117,24 @@ Site de agência de turismo fictícia do Rio de Janeiro com simulação de viage
 
 </div>
 
+---
+
 ## 💡 Frase que me inspira
 
 <div align="center">
-  
-  ```
-  "Programar é arte disfarçada de ciência."
-  ```
-  
+
+```
+"Programar é arte disfarçada de ciência."
+```
+
 </div>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" />
-  
+
   ![Profile Views](https://komarev.com/ghpvc/?username=erikalaiane&color=blueviolet&style=for-the-badge)
-  
+
   **Desenvolvido com 💜 por Erika Laiane**
 </div>
