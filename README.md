@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Erika%20Laiane&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Enthusiast&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Erika%20Laiane&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Front%20End%20Developer%20%7C%20Design%20Enthusiast&descAlignY=58&descAlign=50" />
 </div>
 <div align="center">
 
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+Full+Stack;Explorando+An%C3%A1lise+de+Dados;Criando+interfaces+modernas+com+React;Apaixonada+por+tecnologia!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+Front+End;Explorando+De%C3%S1ign;Criando+interfaces+modernas+com+React;Apaixonada+por+tecnologia!)](https://git.io/typing-svg)
   
 </div>
 
