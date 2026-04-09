@@ -15,7 +15,7 @@ Olá! Sou estudante de programação focada em **Desenvolvimento Front-End**. Co
 ```javascript
 const erika = {
   pronouns: "ela/dela",
-  code: ["JavaScript", "Python", "HTML", "CSS"],
+  code: ["JavaScript", "HTML", "CSS"],
   technologies: {
     frontEnd: {
       js: ["React", "Vite"],
@@ -24,10 +24,10 @@ const erika = {
     backEnd: {
       js: ["Node.js", "Express"]
     },
-    databases: ["MySQL", "MongoDB"],
+    databases: ["MySQL", "Docker"],
     tools: ["Git", "GitHub", "VS Code", "Figma"]
   },
-  currentlyLearning: ["Full Stack Development", "Data Analysis", "Data Visualization"],
+  currentlyLearning: ["Front-End Development", "Design"],
   focus: "Front-End Development com forte senso estético",
   passion: "Unir criatividade artística com código limpo",
   funFact: "Transformo pixels em experiências memoráveis!"
@@ -48,7 +48,6 @@ const erika = {
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
