@@ -14,7 +14,9 @@ Desenvolvendo interfaces modernas, responsivas e visualmente impactantes
 <a href="https://portfolio-erika-laiane.vercel.app/">
   <img src="assets/portfolio.png" alt="Portfolio Preview" width="800"/>
 </a>
-
+<p align="center">
+  <em>Clique na imagem para visualizar o projeto completo</em>
+</p>
 </div>
 
 ---
