@@ -5,25 +5,37 @@
 <div align="center">
 
 ### 👩‍💻 Front-End Developer | UI/UX Focus  
-Desenvolvendo interfaces modernas, responsivas e visualmente impactantes
+Desenvolvendo interfaces que unem **design e código para criar experiências reais de usuário**
 
 🔗 **Portfólio:** https://portfolio-erika-laiane.vercel.app/
 
 <br/>
 
 <a href="https://portfolio-erika-laiane.vercel.app/">
-  <img src="assets/portfolio.png" alt="Portfolio Preview" width="800"/>
+  <img src="assets/portfolio-preview.png" alt="Portfolio Preview" width="800"/>
 </a>
 <p align="center">
-  <em>Clique na imagem para visualizar o projeto completo</em>
+  <em>✦ Explore o projeto completo</em>
+</p>
+<p align="center">
+  <strong>React • Tailwind • UI/UX • Responsivo</strong>
 </p>
 </div>
 
 ---
 
+## ✨ O que eu entrego
+
+- Interfaces modernas com foco em **experiência do usuário (UI/UX) e usabilidade**
+- Conversão de layouts do Figma em código **fiel, responsivo e performático**
+- Implementação de microinterações e refinamento visual para **melhor engajamento**
+- Código front-end organizado, escalável e alinhado a boas práticas de mercado
+
+---
+
 ## 💜 Sobre mim
 
-Sou desenvolvedora front-end com foco em **UI/UX e experiência visual**.  
+Sou desenvolvedora front-end com foco em **interfaces visuais e experiência do usuário**, criando aplicações que equilibram **estética, usabilidade e performance**.  
 Meu trabalho está na interseção entre **design e código**, criando interfaces que não só funcionam, mas **comunicam, engajam e geram experiência**.
 
 Tenho experiência prática com **React, JavaScript e Tailwind CSS**, desenvolvendo aplicações e landing pages com atenção a:
@@ -58,10 +70,16 @@ Projeto focado em **identidade visual forte e experiência imersiva**, explorand
 ---
 
 ### 🏎️ Acelera Club — Hub de Automobilismo  
-Interface moderna inspirada no universo da Fórmula 1, com foco em **hierarquia visual, organização de conteúdo e experiência do usuário**.
+Interface moderna inspirada no universo da Fórmula 1, com foco em hierarquia visual, contraste e organização de conteúdo.
 
 🔗 [Ver Projeto](https://github.com/erikalaiane/acelera-club)  
 🚀 [Ver Demo](https://erikalaiane.github.io/acelera-club/)
+
+---
+
+## 🚀 Vamos trabalhar juntos?
+
+Estou em busca de uma oportunidade de estágio em front-end onde eu possa contribuir com interfaces bem construídas e evoluir tecnicamente.
 
 ---
 
