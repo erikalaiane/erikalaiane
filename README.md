@@ -9,6 +9,12 @@ Desenvolvendo interfaces modernas, responsivas e visualmente impactantes
 
 🔗 **Portfólio:** https://portfolio-erika-laiane.vercel.app/
 
+<br/>
+
+<a href="https://portfolio-erika-laiane.vercel.app/">
+  <img src="assets/portfolio.png" alt="Portfolio Preview" width="800"/>
+</a>
+
 </div>
 
 ---
