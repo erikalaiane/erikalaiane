@@ -5,7 +5,7 @@
 <div align="center">
 
 ### 👩‍💻 Front-End Developer | UI/UX Focus  
-Desenvolvendo interfaces que unem **design e código para criar experiências reais de usuário**
+Desenvolvendo interfaces que unem **design e código para criar experiências digitais eficientes e envolventes**.
 
 🔗 **Portfólio:** https://portfolio-erika-laiane.vercel.app/
 
@@ -15,7 +15,7 @@ Desenvolvendo interfaces que unem **design e código para criar experiências re
   <img src="assets/portfolio-preview.png" alt="Portfolio Preview" width="800"/>
 </a>
 <p align="center">
-  <em>✦ Explore o projeto completo</em>
+  <em>✦ Clique para explorar o projeto completo</em>
 </p>
 <p align="center">
   <strong>React • Tailwind • UI/UX • Responsivo</strong>
@@ -63,7 +63,7 @@ Tenho experiência prática com **React, JavaScript e Tailwind CSS**, desenvolve
 ## 🎯 Projetos em destaque
 
 ### 🎵 Kira Nox — Sound Producer Portfolio  
-Projeto focado em **identidade visual forte e experiência imersiva**, explorando glassmorphism, tipografia expressiva e animações para criar uma interface envolvente.
+Interface focada em identidade visual forte e experiência imersiva, com uso de glassmorphism, tipografia expressiva e animações para aumentar engajamento do usuário.
 
 🔗 [Ver Projeto](https://github.com/erikalaiane/kira-nox)
 
@@ -80,6 +80,8 @@ Interface moderna inspirada no universo da Fórmula 1, com foco em hierarquia vi
 ## 🚀 Vamos trabalhar juntos?
 
 Estou em busca de uma oportunidade de estágio em front-end onde eu possa contribuir com interfaces bem construídas e evoluir tecnicamente.
+
+Aberta a oportunidades remotas.
 
 ---
 
